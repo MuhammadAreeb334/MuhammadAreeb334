@@ -92,6 +92,6 @@
 
 ###  Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/muhammadareeb334/muhammadareeb334/output/github-contribution-grid-snake.svg" />
-</p>
+<picture>
+<img src="https://raw.githubusercontent.com/hxu296/hxu296/output/github-contribution-grid-snake.svg" />
+</picture>
