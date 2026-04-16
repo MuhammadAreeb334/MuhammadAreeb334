@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Areeb</h1>
 
 <h3 align="center">
-  MERN Stack Developer | Building Scalable Web Apps
+  MERN Stack Developer | Building Scalable Web Applications
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=I'm+a+MERN+Stack+Developer;I+build+real-world+projects;React+%7C+Node+%7C+MongoDB;Always+learning+new+tech+" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=MERN+Stack+Developer;Building+real-world+applications;React+%7C+Node+%7C+MongoDB;Exploring+AI+and+Machine+Learning" />
 </p>
 
 <p align="center">
@@ -14,37 +14,45 @@
 
 ---
 
-###  About Me
+### About Me
 
-- Currently working on **Full-stack MERN Applications**
--  Building **AI-powered HR Screening System**
--  Learning **Advanced React & Machine Learning Integration**
--  Ask me about **React, Node.js, Express, MongoDB, SQL**
--  Reach me: **muhammadareeb334@gmail.com**
--  Projects:  
-   https://github.com/MuhammadAreeb334  
--  Resume:  
-   https://docs.google.com/document/d/13qciFnsiwsxMiMkzcYOz_ugZzq5rfZzT/edit  
+- Currently building full-stack applications using the MERN stack  
+- Developing an AI-powered HR Screening System with NLP and ML  
+- Learning advanced React patterns and backend system design  
+- Ask me about React, Node.js, Express, MongoDB, and REST APIs  
+- Email: muhammadareeb334@gmail.com  
+- GitHub: https://github.com/MuhammadAreeb334  
+- Resume: https://docs.google.com/document/d/13qciFnsiwsxMiMkzcYOz_ugZzq5rfZzT/edit  
 
 ---
 
-###  Featured Projects
+### Featured Projects
 
- **AI HR Screening System**  
-- NLP-based resume parsing + ML classification  
-- Tech: MERN + Python + Scikit-learn  
+**AI HR Screening System**  
+- Resume parsing using NLP and candidate classification using ML  
+- Combines MERN stack with Python-based models  
+- Focus on automation, bias reduction, and recruiter efficiency  
 
- **MERN E-commerce App**  
-- Stripe Payment Integration + Google Auth  
-- Full cart, checkout, and order system  
+**MERN E-commerce Application**  
+- Complete shopping workflow with Stripe payment integration  
+- Google authentication and secure backend APIs  
+- Cart, checkout, and order management system  
 
- **Authentication System**  
-- JWT + Google OAuth login/signup  
-- Secure backend + protected routes  
+**Authentication System**  
+- JWT-based authentication with Google OAuth integration  
+- Role-based access and protected routes  
+- Scalable backend structure  
 
 ---
 
-###  Connect with me
+### Machine Learning Work
+
+All notebooks and experiments are maintained separately:  
+https://github.com/MuhammadAreeb334/ml-experiments
+
+---
+
+### Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-areeb-334aaac/">
@@ -66,7 +74,7 @@
 
 ---
 
-###  Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,js,ts,python,java,cpp,html,css,tailwind,redux,git,postman,firebase,nextjs" />
@@ -74,7 +82,7 @@
 
 ---
 
-###  GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=muhammadareeb334&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -85,7 +93,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadareeb334&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadareeb334&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook" />
 </p>
 
 ---
