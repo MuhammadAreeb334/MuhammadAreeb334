@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=MERN+Stack+Developer;Building+real-world+applications;React+%7C+Node+%7C+MongoDB;Exploring+AI+and+Machine+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=MERN+Stack+Developer;Building+real-world+web+applications;React+%7C+Node+%7C+MongoDB;Full-stack+Developer" />
 </p>
 
 <p align="center">
@@ -17,38 +17,12 @@
 ### About Me
 
 - Currently building full-stack applications using the MERN stack  
-- Developing an AI-powered HR Screening System with NLP and ML  
-- Learning advanced React patterns and backend system design  
+- Focused on scalable backend systems and clean frontend architecture  
+- Interested in real-world product development and API design  
 - Ask me about React, Node.js, Express, MongoDB, and REST APIs  
 - Email: muhammadareeb334@gmail.com  
 - GitHub: https://github.com/MuhammadAreeb334  
 - Resume: https://docs.google.com/document/d/13qciFnsiwsxMiMkzcYOz_ugZzq5rfZzT/edit  
-
----
-
-### Featured Projects
-
-**AI HR Screening System**  
-- Resume parsing using NLP and candidate classification using ML  
-- Combines MERN stack with Python-based models  
-- Focus on automation, bias reduction, and recruiter efficiency  
-
-**MERN E-commerce Application**  
-- Complete shopping workflow with Stripe payment integration  
-- Google authentication and secure backend APIs  
-- Cart, checkout, and order management system  
-
-**Authentication System**  
-- JWT-based authentication with Google OAuth integration  
-- Role-based access and protected routes  
-- Scalable backend structure  
-
----
-
-### Machine Learning Work
-
-All notebooks and experiments are maintained separately:  
-https://github.com/MuhammadAreeb334/ml-experiments
 
 ---
 
@@ -77,7 +51,7 @@ https://github.com/MuhammadAreeb334/ml-experiments
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,js,ts,python,java,cpp,html,css,tailwind,redux,git,postman,firebase,nextjs" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,js,ts,html,css,tailwind,redux,git,postman,firebase,nextjs" />
 </p>
 
 ---
@@ -95,5 +69,3 @@ https://github.com/MuhammadAreeb334/ml-experiments
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadareeb334&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook" />
 </p>
-
----
